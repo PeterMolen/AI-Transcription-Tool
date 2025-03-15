@@ -13,46 +13,46 @@ PodManager AI Transcription Tool consists of six key interactive features where 
 
 1️⃣ 🎙 AI-Powered Transcription
 
--Transcription of audio and video
--Speaker identification & timestamps
--Translation & AI-enhanced text improvements
+-Transcription of audio and video  
+-Speaker identification & timestamps  
+-Translation & AI-enhanced text improvements  
 
 
 2️⃣ 🎛 Audio Enhancement & AI Analysis
 
--Noise reduction & audio enhancement
--Sentiment analysis & AI-powered audio quality assessment
--Speech rate analysis & AI-driven recommendations
+-Noise reduction & audio enhancement  
+-Sentiment analysis & AI-powered audio quality assessment  
+-Speech rate analysis & AI-driven recommendations  
 
 
 3️⃣ ✂ Audio Cutting
 
--Manual audio trimming with waveform visualization
--Adjust clip times using sliders
+-Manual audio trimming with waveform visualization  
+-Adjust clip times using sliders  
 
 
 4️⃣ 🤖 AI Audio Cutting
 
--Automatic detection of long pauses & filler words
--AI-suggested optimal cuts
+-Automatic detection of long pauses & filler words  
+-AI-suggested optimal cuts  
 
 
 5️⃣ 📹 Video Enhancement & AI Analysis
 
--AI-powered video quality enhancement
--AI analysis of content (emotion detection, sentiment analysis)
+-AI-powered video quality enhancement  
+-AI analysis of content (emotion detection, sentiment analysis)  
 
 
 6️⃣ 📼 Video Cutting
 
--Manual video editing and trimming tools
--Time-based cutting & export
+-Manual video editing and trimming tools  
+-Time-based cutting & export  
 
 
 🔜 7️⃣ AI Video Cutting (Coming Soon!)
 
--AI-driven automated video cutting
--AI-based detection of irrelevant segments
+-AI-driven automated video cutting  
+-AI-based detection of irrelevant segments  
 
 
 ## Core Features
@@ -104,7 +104,8 @@ Show notes with summaries & highlights
 Automatically generated social media snippets
 Ability to translate transcriptions into multiple languages
 Export transcriptions in TXT, SRT, & JSON formats
-Audio & video files can be downloaded in optimized formats
+Audio & video files can be downloaded in optimized formats  
+
 🖥 Interactive UI & User Experience
 
 Streamlit-based frontend with simple buttons & sliders
