@@ -57,12 +57,12 @@ PodManager AI Transcription Tool consists of six key interactive features where 
 
 ## Core Features
 
-✅ AI-powered transcription – Converts audio and video to text with speaker recognition
-✅ AI-driven audio enhancement – Removes noise, improves clarity, and balances audio levels
-✅ AI-powered audio & video cutting – Automated and manual editing options
-✅ Automatic detection of filler words & long pauses – Removes unnecessary parts from audio
-✅ AI-generated show notes & marketing snippets – Creates summaries and highlights
-✅ Export edited files in multiple formats – Download optimized versions
+✅ AI-powered transcription – Converts audio and video to text with speaker recognition.  
+✅ AI-driven audio enhancement – Removes noise, improves clarity, and balances audio levels.  
+✅ AI-powered audio & video cutting – Automated and manual editing options.  
+✅ Automatic detection of filler words & long pauses – Removes unnecessary parts from audio.  
+✅ AI-generated show notes & marketing snippets – Creates summaries and highlights.  
+✅ Export edited files in multiple formats – Download optimized versions.  
 
 
 
