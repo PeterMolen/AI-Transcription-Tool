@@ -7,40 +7,52 @@ PodManagerAI Transcription Tool is an AI-driven editing platform that combines t
 A complete AI-driven podcast editing platform covering the entire workflow: Transcription → AI Analysis → Editing → Export. With both automatic AI enhancements and manual adjustments, users gain maximum control over their audio and video productions.
 
 
-## 6 kraftfulla AI-funktioner
+## 6 AI-functions
 
 PodManager AI Transcription Tool consists of six key interactive features where users can process audio and video. A seventh feature, AI Video Cutting, is on the way!
 
 1️⃣ 🎙 AI-Powered Transcription
 
-Transcription of audio and video
-Speaker identification & timestamps
-Translation & AI-enhanced text improvements
+-Transcription of audio and video
+-Speaker identification & timestamps
+-Translation & AI-enhanced text improvements
+
+
 2️⃣ 🎛 Audio Enhancement & AI Analysis
 
-Noise reduction & audio enhancement
-Sentiment analysis & AI-powered audio quality assessment
-Speech rate analysis & AI-driven recommendations
+-Noise reduction & audio enhancement
+-Sentiment analysis & AI-powered audio quality assessment
+-Speech rate analysis & AI-driven recommendations
+
+
 3️⃣ ✂ Audio Cutting
 
-Manual audio trimming with waveform visualization
-Adjust clip times using sliders
+-Manual audio trimming with waveform visualization
+-Adjust clip times using sliders
+
+
 4️⃣ 🤖 AI Audio Cutting
 
-Automatic detection of long pauses & filler words
-AI-suggested optimal cuts
+-Automatic detection of long pauses & filler words
+-AI-suggested optimal cuts
+
+
 5️⃣ 📹 Video Enhancement & AI Analysis
 
-AI-powered video quality enhancement
-AI analysis of content (emotion detection, sentiment analysis)
+-AI-powered video quality enhancement
+-AI analysis of content (emotion detection, sentiment analysis)
+
+
 6️⃣ 📼 Video Cutting
 
-Manual video editing and trimming tools
-Time-based cutting & export
+-Manual video editing and trimming tools
+-Time-based cutting & export
+
+
 🔜 7️⃣ AI Video Cutting (Coming Soon!)
 
-AI-driven automated video cutting
-AI-based detection of irrelevant segments
+-AI-driven automated video cutting
+-AI-based detection of irrelevant segments
 
 
 ## Core Features
